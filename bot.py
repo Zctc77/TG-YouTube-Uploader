@@ -39,7 +39,7 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton('🆘 Help', callback_data="help"),
                                         InlineKeyboardButton('👥 Support', url='https://telegram.me/TeleRoid14')
                                     ],[
-                                        InlineKeyboardButton('👮 Owner', url='https://t.me/ThTeleRoid'),
+                                        InlineKeyboardButton('👮 Owner', url='https://t.me/Z_c_T_c'),
                                         InlineKeyboardButton('🤖 BotsList', url='https://t.me/joinchat/t1ko_FOJxhFiOThl'),
                                         InlineKeyboardButton('Channel 📢', url='https://t.me/TeleRoidGroup')
                                     ],[
