@@ -37,10 +37,10 @@ Hit help button to find out more about how to use me</b>""",
                                 [
                                 [
                                         InlineKeyboardButton('🆘 Help', callback_data="help"),
-                                        InlineKeyboardButton('👥 Support', url='https://telegram.me/TeleRoid14')
+                                        InlineKeyboardButton('👥 Support', url='https://t.me/Z_c_T_c')
                                     ],[
                                         InlineKeyboardButton('👮 Owner', url='https://t.me/Z_c_T_c'),
-                                        InlineKeyboardButton('Channel 📢', url='https://t.me/TeleRoidGroup')
+                                        InlineKeyboardButton('Channel 📢', url='https://t.me/+BZim2ubJeZU5N2I1')
                                     ],[
                                         InlineKeyboardButton('⭕ Source-GitHub ⭕', url='https://github.com/PredatorHackerzZ/TG-YouTube-Uploader'),
                                     ]]
