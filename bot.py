@@ -42,8 +42,6 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton('👮 Owner', url='https://t.me/ThTeleRoid'),
                                         InlineKeyboardButton('🤖 BotsList', url='https://t.me/joinchat/t1ko_FOJxhFiOThl'),
                                         InlineKeyboardButton('Channel 📢', url='https://t.me/TeleRoidGroup')
-                                    ],[
-                                        InlineKeyboardButton('⭕ Source-GitHub ⭕', url='https://github.com/PredatorHackerzZ/TG-YouTube-Uploader'),
                                     ]]
                             ),        
             disable_web_page_preview=True,        
