@@ -40,7 +40,6 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton('👥 Support', url='https://telegram.me/TeleRoid14')
                                     ],[
                                         InlineKeyboardButton('👮 Owner', url='https://t.me/Z_c_T_c'),
-                                        InlineKeyboardButton('🤖 BotsList', url='https://t.me/joinchat/t1ko_FOJxhFiOThl'),
                                         InlineKeyboardButton('Channel 📢', url='https://t.me/TeleRoidGroup')
                                     ],[
                                         InlineKeyboardButton('⭕ Source-GitHub ⭕', url='https://github.com/PredatorHackerzZ/TG-YouTube-Uploader'),
